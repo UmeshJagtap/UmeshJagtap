@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on MERN stack. <br>👯 I’m looking to collaborate on Next.js, React.js projects. <br>🌱 I’m currently learning backend and cloud.<br>🤝 I’m looking for help with ... <br>💬 Ask me about Optimizations in UI.<br>📫 How to reach me :) Ph : +91 7776933347, Mail : umeshjagtap.7866@gmail.com <br>⚡ Fun fact <b>The Internet Is Controlled By 14 People With Seven Keys</b>
 
 # 💻 Tech Stack:
 
